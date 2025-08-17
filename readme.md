@@ -49,9 +49,7 @@
 
 <p>If you do not agree with this policy, please do not use the Service. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.</p>
 
-<blockquote>
-  Replace the placeholders below (Company/Contact) with your actual details before publishing.
-</blockquote>
+
 
 <ul>
   <li><strong>App name:</strong> Bandham</li>
