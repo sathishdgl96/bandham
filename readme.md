@@ -1,0 +1,1 @@
+For hosting privacy policy
