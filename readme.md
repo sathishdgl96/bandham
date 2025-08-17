@@ -154,8 +154,6 @@
   <li><strong>Address:</strong> Perungudi, Chennai, India-600096</li>
 </ul>
 
-<hr>
-<p><em>This document is provided as a template. Ensure it reflects your actual data practices and consult counsel if needed.</em></p>
 
 </body>
 </html>
